@@ -108,7 +108,7 @@
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "01";
             this.ResumeLayout(false);
 
         }
